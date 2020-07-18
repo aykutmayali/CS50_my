@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595083906 source:c:\users\lenova\desktop\src1\src1\main.cpp
+	<iostream>
+	<stdio.h>
+	<unistd.h>
+
